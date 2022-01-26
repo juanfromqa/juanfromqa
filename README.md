@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanfromqa
-- 👀 I’m interested in Music and Javascript
-- 🌱 I’m currently learning React.js
+- 👀 I’m into Music and Programming
+- 🌱 Currently learning React.js
 
 <!---
 juanfromqa/juanfromqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
